@@ -1,3 +1,3 @@
 source 'http://rubygems.org'
-gem 'spree', :github => 'spree/spree', :branch => '1-3-stable'
+gem 'spree', :github => 'camerabits/spree', :branch => '1-3-cb'
 gemspec
